@@ -1,3 +1,17 @@
+# Farmers Market Website
+
+-  On Mac VScode, use `command + shift + v` to preview this file in VScode with markdown preview
+-  On Windows VScode, use `ctrl + shift + v` to preview this file in VScode with markdown preview (Check if this works)
+
+## First Steps
+```bash
+yarn
+# or
+yarn install
+```
+- ensure all dependencies are installed before anything!
+
+# NextJS Readme Template
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
